@@ -1,1 +1,1 @@
-# Similarity-search-with-Vector-Database
+# Similarity search with Vectors
